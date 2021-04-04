@@ -1,6 +1,37 @@
-# hashicorp
-Repository to test out hashicorp's offerings as consul, serf, Raft and memberlist
+# Overview
 
-The serf testing follows this [link.](https://jacobmartins.com/2017/01/29/practical-golang-building-a-simple-distributed-one-value-database-with-hashicorp-serf/)
+With Increasing spread and use of distributed systems, this repository aims at understanding the use of hashi-stack  to build deploy and maintain the microservices and different systems.
+This also lays the ground work to understand what each product offers and why is it necessary to use it.
 
-Here we build a simple one value database with serf that is based on SWIM based gossip protocol to propagate the values along the cluster.
+
+
+## Infrastructure as code
+
+### Terraform
+
+### Packer
+
+
+
+## Schedulers
+
+### Nomad
+
+
+## Service Discovery
+
+### Consul
+### Eureka
+
+
+
+## Deployment
+
+### Waypoint
+
+## Secrets Manager
+
+### Vault
+
+
+
